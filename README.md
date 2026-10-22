@@ -13,6 +13,6 @@ Pour contacter le support, signaler un bug ou proposer une amélioration :
 
 ## Liens des pages publiques
 
-- [Assistance — Support.txt](Support.txt)
+- [Assistance — Support.txt]https://github.com/noahvinayf/JustRich/blob/main/Support
 
 - Politique de confidentialité--- https://github.com/noahvinayf/JustRich/blob/main/privacy%20Just%20Rich
